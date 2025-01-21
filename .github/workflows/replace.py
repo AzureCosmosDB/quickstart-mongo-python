@@ -1,0 +1,1 @@
+CONNECTION_STRING = secret_client.get_secret("cosmosconnectionstring")
